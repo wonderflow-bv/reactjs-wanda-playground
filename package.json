@@ -2,6 +2,10 @@
   "name": "react-vite-wanda",
   "private": false,
   "version": "0.1.0",
+  "author": "Wonderflow Design Team",
+  "email": "design@wonderflow.ai",
+  "url": "https://www.design.wonderflow.ai",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
